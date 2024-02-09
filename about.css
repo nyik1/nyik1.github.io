@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+
+/* navbar */
+#navbar {
+    background: linear-gradient(#202020, #303030);
+}
+
+#logo {
+    color: #ffffff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+#logo img {
+    border-radius: 10px;
+    width: 40px;
+}
+
+.nav-item .nav-link {
+    color: white;
+    margin-left: 10px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.nav-item .nav-link:hover {
+    background: #f7f5f2;
+    border-radius: 5px;
+    color: #527147;
+}
+
+/* navbar */
+
+
+/* about section */
+#about .container {
+    padding-top: 70px;
+}
+
+#about .heading {
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#about .heading span {
+    color: #527147;
+}
+
+#about .card {
+    border-radius: 10px;
+}
+
+#about .card img {
+    border-radius: 10px;
+}
+
+#about h2 {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+#about p {
+    font-weight: 500;
+}
+/* about section */
+
+/* services section */
+#services .container {
+    padding-top: 70px;
+}
+
+#services .heading {
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#services .heading span {
+    color: #527147;
+}
+
+#services .card-body i {
+    font-size: 50px;
+}
+/* services section */
+
+/* story section */
+#story .container {
+    padding-top: 70px;
+}
+
+#story .heading {
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#story .heading span {
+    color: #527147;
+}
+
+#story .card {
+    border-radius: 10px;
+}
+
+#story .card img {
+    border-radius: 10px;
+}
+
+#story h2 {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+#story p {
+    font-weight: 500;
+}
+
+/* story section */
+
+/* branch */
+#branch .container {
+    padding-top: 70px;
+}
+
+#branch .heading {
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#branch .heading span {
+    color: #527147;
+}
+#branch .about-text {
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+    font-weight: 700;
+}
+#branch .about-text h5{
+    font-weight: bold;
+    color: #527147;
+}
+#branch .about-text li{
+    color: #527147;
+}
+/* branch */
